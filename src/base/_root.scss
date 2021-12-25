@@ -1,0 +1,26 @@
+:root {
+  --dsfe-body-text-color: #{$dark};
+  --dsfe-body-bg-color: #{$white};
+  --dsfe-button-primary-color: #{$white};
+  --dsfe-button-primary-bg: #{$green};
+  --dsfe-button-primary-bg-hover: #{$green-light};
+  --dsfe-form-color: #{$dark};
+  --dsfe-form-bg: #{$white};
+  --dsfe-form-error-color: #{$red};
+  --dsfe-form-error-border: #{$red};
+  --dsfe-form-border-focus-color: #{$green};
+  --dsfe-body-font-size: #{$fs-sm};
+  --dsfe-body-font-weight: #{$fw-normal};
+  --dsfe-h1-font-size: #{$h-1};
+  --dsfe-h2-font-size: #{$h-2};
+  --dsfe-h3-font-size: #{$h-3};
+  --dsfe-h4-font-size: #{$h-4};
+  --dsfe-h5-font-size: #{$h-5};
+  --dsfe-h6-font-size: #{$h-6};
+  --dsfe-h1-font-weight: #{$fw-black};
+  --dsfe-h2-font-weight: #{$fw-semibold};
+  --dsfe-h3-font-weight: #{$fw-bold};
+  --dsfe-h4-font-weight: #{$fw-medium};
+  --dsfe-h5-font-weight: #{$fw-normal};
+  --dsfe-h6-font-weight: #{$fw-light};
+}

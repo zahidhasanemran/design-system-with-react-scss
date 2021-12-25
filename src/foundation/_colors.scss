@@ -1,0 +1,29 @@
+/*=============================================
+=            Global text Colors              =
+=============================================*/
+$body-text-color: var(--dsfe-body-text-color, $dark) !default;
+$body-bg-color: var(--dsfe-body-bg-color, $white) !default;
+
+/*=====  End of Global text Colors    ======*/
+
+/*=============================================
+=            Buttons Colors              =
+=============================================*/
+$button-primary-color: var(--dsfe-button-primary-color, $white) !default;
+$button-primary-bg: var(--dsfe-button-primary-bg, $green) !default;
+$button-primary-bg-hover: var(
+  --dsfe-button-primary-bg-hover,
+  $green-light
+) !default;
+/*=====  End of Global text Colors    ======*/
+
+/*=============================================
+=            Forms Colors              =
+=============================================*/
+$form-color: var(--dsfe-form-color, $dark) !default;
+$form-bg: var(--dsfe-form-bg, $white) !default;
+$form-error-color: var(--dsfe-form-error-color, $red) !default;
+$form-error-border: var(--dsfe-form-error-border, $red) !default;
+$form-border-focus-color: var(--dsfe-form-border-focus-color, $green) !default;
+
+/*=====  End of Forms Colors    ======*/
