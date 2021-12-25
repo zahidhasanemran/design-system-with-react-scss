@@ -1,0 +1,6 @@
+@import "foundation/all";
+
+.dsfe-panel-style {
+  display: flex;
+  @include margin("left", "xxs");
+}
